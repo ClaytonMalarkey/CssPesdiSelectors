@@ -1,0 +1,14 @@
+#p1:hover {
+
+    background-color: red;
+
+}
+#p2:hover {
+    background-color: yellow;
+}
+
+#p3:active {
+
+    background-color: blue;
+
+}
